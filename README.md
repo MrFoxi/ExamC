@@ -52,9 +52,9 @@ Créer un type de service (ex : Maintenance préventive, Dépannage, Inspection�
 #### ✅ Requête :
 ```json
 {
+  "type": "Électricité",
   "clientId": 1,
-  "technicianIds": [2, 3],
-  "type": "Maintenance préventive",
-  "date": "2025-05-10T10:00:00"
+  "technicianIds": [1, 2],
+  "date": "2020-01-01T10:00:00"
 }
 ```
