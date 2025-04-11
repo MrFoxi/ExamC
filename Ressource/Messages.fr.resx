@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Error_GenericTitle" xml:space="preserve">
+    <value>Une erreur s’est produite</value>
+  </data>
+  <data name="Error_PastDate" xml:space="preserve">
+    <value>La date ne peut pas être dans le passé.</value>
+  </data>
+</root>
