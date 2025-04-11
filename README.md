@@ -41,8 +41,7 @@ Créer un type de service (ex : Maintenance préventive, Dépannage, Inspection�
 ### 📥 Requête :
 ```json
 {
-  "name": "Inspection annuelle",
-  "description": "Contrôle technique obligatoire effectué chaque année."
+  "type": "Des trucs de con"
 }
 ```
 
